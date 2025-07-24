@@ -15,7 +15,6 @@ Simple computer engineering student
 ![](https://nirzak-streak-stats.vercel.app/?user=tahaSadeghi2308&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahaSadeghi2308&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
